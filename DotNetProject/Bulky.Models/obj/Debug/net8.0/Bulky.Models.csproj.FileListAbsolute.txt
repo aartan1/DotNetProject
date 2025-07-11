@@ -1,0 +1,16 @@
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\Bulky.Models.sourcelink.json
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\UYSM-11\source\repos\DotNetProject\Desktop\DotNetProject\Bulky.Models\obj\Debug\net8.0\Bulky.Mo.343AC5CD.Up2Date
